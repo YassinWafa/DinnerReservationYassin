@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DinnerReservationYassin/static/css/main.62ab7fb0.chunk.css",
+    "main.js": "/DinnerReservationYassin/static/js/main.cab6233d.chunk.js",
+    "main.js.map": "/DinnerReservationYassin/static/js/main.cab6233d.chunk.js.map",
+    "runtime-main.js": "/DinnerReservationYassin/static/js/runtime-main.1a6b97f1.js",
+    "runtime-main.js.map": "/DinnerReservationYassin/static/js/runtime-main.1a6b97f1.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/DinnerReservationYassin/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.fb678cda.chunk.js": "/DinnerReservationYassin/static/js/2.fb678cda.chunk.js",
+    "static/js/2.fb678cda.chunk.js.map": "/DinnerReservationYassin/static/js/2.fb678cda.chunk.js.map",
+    "static/js/3.05e3280d.chunk.js": "/DinnerReservationYassin/static/js/3.05e3280d.chunk.js",
+    "static/js/3.05e3280d.chunk.js.map": "/DinnerReservationYassin/static/js/3.05e3280d.chunk.js.map",
+    "index.html": "/DinnerReservationYassin/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/DinnerReservationYassin/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.62ab7fb0.chunk.css.map": "/DinnerReservationYassin/static/css/main.62ab7fb0.chunk.css.map",
+    "static/js/2.fb678cda.chunk.js.LICENSE.txt": "/DinnerReservationYassin/static/js/2.fb678cda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a6b97f1.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.fb678cda.chunk.js",
+    "static/css/main.62ab7fb0.chunk.css",
+    "static/js/main.cab6233d.chunk.js"
+  ]
+}
